@@ -1,3 +1,12 @@
+//
+// invaders.js
+//
+// A Space Invaders clone
+//
+// author: Jason Fleet
+//
+// email: jason.fleet@googlemail.com
+//
 var Invaders = function()
 {
     var ALIEN_ROWS_0 = [2, 4, 4, 0, 0];
